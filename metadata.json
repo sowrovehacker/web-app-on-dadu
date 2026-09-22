@@ -1,0 +1,6 @@
+{
+  "name": "Garments Tracking - Input & Wash হিসাব",
+  "description": "Garments tracking, Input & Wash হিসাব, Production, Attendance and Salary management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
